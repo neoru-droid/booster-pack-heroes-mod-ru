@@ -1,6 +1,6 @@
 # Booster Pack Heroes - Внутриигровое мод-меню и таблица Cheat Engine (.CT)
 
-Русское мод-меню (v1.0), стартовое сохранение с запасом валют и таблица Cheat Engine для **Booster Pack Heroes** (версия `1.0.30d`, Windows, Steam Deck и macOS). Достижения в Steam не блокируются.
+Русское мод-меню (v1.0), стартовое сохранение с запасом валют и таблица Cheat Engine для **Booster Pack Heroes** (версия `1.0.30d`, Windows, Steam Deck и macOS).
 
 ## Скачать
 - **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
