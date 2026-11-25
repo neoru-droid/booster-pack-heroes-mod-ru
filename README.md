@@ -1,6 +1,6 @@
 # Booster Pack Heroes - Внутриигровое мод-меню и таблица Cheat Engine (.CT)
 
-Русское внутриигровое мод-меню (`v1.0`), чистое стартовое сохранение `CheatMod` и таблица Cheat Engine для **Booster Pack Heroes** (проверено на версии `1.0.30d`). Достижения продолжают открываться как в обычной игре, а вернуть чистую оригинальную игру можно в один клик без перекачивания в Steam.
+Русское внутриигровое мод-меню (`v1.0`), чистое стартовое сохранение и таблица Cheat Engine для **Booster Pack Heroes** (проверено на версии `1.0.30d`). Достижения Steam продолжают открываться, а вернуть оригинальные файлы можно в один клик.
 
 ## Скачать
 - **[Страница релиза на Boosty (актуальная сборка и обновления)](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
@@ -15,7 +15,7 @@
 ## Установка мод-меню
 1. **Windows:** закройте игру, распакуйте архив и запустите `BoosterPackHeroes-Trainer-Setup.exe` -> **«Установить мод-меню»**.
 2. **Steam Deck / Linux (Proton):** распакуйте все файлы рядом и выполните `sh install-steamdeck.sh`, затем добавьте в параметры запуска Steam: `WINEDLLOVERRIDES="version=n,b" %command%`.
-3. **macOS:** откройте `install-macos.command` для версии под Wine / CrossOver / Whisky, либо используйте чистый `CheatMod` (`blackbox_save_v1.json`) для нативной `.app` сборки.
+3. **macOS:** откройте `install-macos.command` для версии под Wine / CrossOver / Whisky, либо используйте чистое сохранение (`blackbox_save_v1.json`) для нативной `.app` сборки.
 4. **Управление в игре:** нажмите клавишу `F1` (или `L3 + R3` на геймпаде), чтобы открыть или скрыть окно мод-меню; `Alt+1..8` запускают быстрые команды.
 
 ## Возможности внутриигрового мод-меню
@@ -41,11 +41,11 @@
 ### Вкладка «Инфо и обновления»
 - Справка по версиям, управление, быстрый переход на Boosty и сброс переключателей.
 
-## Стартовое сохранение (CheatMod) и таблица Cheat Engine
+## Стартовое сохранение и таблица Cheat Engine
 
 ![Таблица Cheat Engine для Booster Pack Heroes](docs/screenshots/ct_1.png)
 
-- **CheatMod (`BoosterPackHeroes-CheatMod-v1.0.zip`):** чистый архив без `.exe` и `.dll` со стартовым `blackbox_save_v1.json` (999 999 монет, 50 000 мастерства, 5 000 черепов/фолиума/космо-монет, 1 000 зенита). Перед заменой сохраните свой файл `%USERPROFILE%\AppData\LocalLow\zup games\Booster Pack Heroes\blackbox_save_v1.json`.
+- **Стартовое сохранение (`BoosterPackHeroes-CheatMod-v1.0.zip`):** чистый архив без `.exe` и `.dll` со стартовым `blackbox_save_v1.json` (999 999 монет, 50 000 мастерства, 5 000 черепов/фолиума/космо-монет, 1 000 зенита). Перед заменой сохраните свой файл `%USERPROFILE%\AppData\LocalLow\zup games\Booster Pack Heroes\blackbox_save_v1.json`.
 - **Таблица Cheat Engine (`BoosterPackHeroes_RU_v1.0.CT`):** 8 русских IL2CPP-скриптов для быстрого начисления валют (+10 000 монет, +5 000 мастерства, +1 000 черепов, +1 000 фолиума, +1 000 космических монет, +250 зенита), режима бога с неуязвимостью башни и гарантированной фольги на всех бустерах.
 
 Автор: `neoru-droid`
