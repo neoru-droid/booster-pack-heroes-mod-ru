@@ -1,12 +1,10 @@
 # Booster Pack Heroes - Внутриигровое мод-меню и таблица Cheat Engine (.CT)
 
-Русское внутриигровое мод-меню (`v1.0`), чистое стартовое сохранение и таблица Cheat Engine для **Booster Pack Heroes** (проверено на версии `1.0.30d`). Достижения Steam продолжают открываться, а вернуть оригинальные файлы можно в один клик.
+Русское мод-меню (v1.0), стартовое сохранение с запасом валют и таблица Cheat Engine для **Booster Pack Heroes** (версия `1.0.30d`, Windows, Steam Deck и macOS). Достижения в Steam не блокируются.
 
 ## Скачать
-- **[Страница релиза на Boosty (актуальная сборка и обновления)](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
-- **[Каталог всех проектов автора на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
-- **[Каталог всех игр с поиском](https://neoru-droid.github.io/)**
-- **[GitHub Releases](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/releases)**
+- **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
+- **[Архивы на GitHub Releases](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/releases)**
 
 Поддерживаются **Windows 10 / 11**, **Steam Deck / Linux (Proton)** и **macOS**.
 
@@ -15,7 +13,7 @@
 ## Установка мод-меню
 1. **Windows:** закройте игру, распакуйте архив и запустите `BoosterPackHeroes-Trainer-Setup.exe` -> **«Установить мод-меню»**.
 2. **Steam Deck / Linux (Proton):** распакуйте все файлы рядом и выполните `sh install-steamdeck.sh`, затем добавьте в параметры запуска Steam: `WINEDLLOVERRIDES="version=n,b" %command%`.
-3. **macOS:** откройте `install-macos.command` для версии под Wine / CrossOver / Whisky, либо используйте чистое сохранение (`blackbox_save_v1.json`) для нативной `.app` сборки.
+3. **macOS:** откройте `install-macos.command` для версии под Wine / CrossOver / Whisky, либо используйте готовое сохранение (`blackbox_save_v1.json`) для нативной `.app` сборки.
 4. **Управление в игре:** нажмите клавишу `F1` (или `L3 + R3` на геймпаде), чтобы открыть или скрыть окно мод-меню; `Alt+1..8` запускают быстрые команды.
 
 ## Возможности внутриигрового мод-меню
@@ -45,7 +43,15 @@
 
 ![Таблица Cheat Engine для Booster Pack Heroes](docs/screenshots/ct_1.png)
 
-- **Стартовое сохранение (`BoosterPackHeroes-CheatMod-v1.0.zip`):** чистый архив без `.exe` и `.dll` со стартовым `blackbox_save_v1.json` (999 999 монет, 50 000 мастерства, 5 000 черепов/фолиума/космо-монет, 1 000 зенита). Перед заменой сохраните свой файл `%USERPROFILE%\AppData\LocalLow\zup games\Booster Pack Heroes\blackbox_save_v1.json`.
-- **Таблица Cheat Engine (`BoosterPackHeroes_RU_v1.0.CT`):** 8 русских IL2CPP-скриптов для быстрого начисления валют (+10 000 монет, +5 000 мастерства, +1 000 черепов, +1 000 фолиума, +1 000 космических монет, +250 зенита), режима бога с неуязвимостью башни и гарантированной фольги на всех бустерах.
+- **Стартовое сохранение (`BoosterPackHeroes-CheatMod-v1.0.zip`):** готовый файл `blackbox_save_v1.json` (999 999 монет, 50 000 мастерства, 5 000 черепов/фолиума/космо-монет, 1 000 зенита). Перед заменой сохраните свой файл `%USERPROFILE%\AppData\LocalLow\zup games\Booster Pack Heroes\blackbox_save_v1.json`.
+- **Таблица Cheat Engine (`BoosterPackHeroes_RU_v1.0.CT`):** 8 скриптов на русском языке для быстрого начисления валют (+10 000 монет, +5 000 мастерства, +1 000 черепов, +1 000 фолиума, +1 000 космических монет, +250 зенита), режима бога с неуязвимостью башни и гарантированной фольги на всех бустерах.
+
+## Обратная связь и проекты автора
+
+Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/issues).
+
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes) · [профиль на GitHub](https://github.com/neoru-droid)
+
+Лицензия: [MIT](LICENSE)
 
 Автор: `neoru-droid`
