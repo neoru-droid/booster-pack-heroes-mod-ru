@@ -3,8 +3,8 @@
 Русское внутриигровое мод-меню (`v1.0`), чистое стартовое сохранение `CheatMod` и таблица Cheat Engine для **Booster Pack Heroes** (проверено на версии `1.0.30d`). Достижения продолжают открываться как в обычной игре, а вернуть чистую оригинальную игру можно в один клик без перекачивания в Steam.
 
 ## Скачать
-- **[Страница релиза на Boosty (актуальная сборка и обновления)](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78)**
-- **[Каталог всех проектов автора на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)**
+- **[Страница релиза на Boosty (актуальная сборка и обновления)](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
+- **[Каталог всех проектов автора на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
 - **[Каталог всех игр с поиском](https://neoru-droid.github.io/)**
 - **[GitHub Releases](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/releases)**
 
