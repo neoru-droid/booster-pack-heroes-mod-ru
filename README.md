@@ -3,9 +3,9 @@
 Стартовый запас валют, неуязвимая башня, урон курсора, 100% фольгированные и гигантские карты в бустерах + сохранение и `.CT` (`v1.0`, версия `1.0.30d`, Windows, Steam Deck и macOS).
 
 ## Скачать
-- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes)**
-- **[Архивы на GitHub Releases](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/releases)**
-- **Ранний доступ и заказ своей игры:** новинки на 48 ч раньше от `120 ₽`, своя игра в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/releases/download/v1.0.0/BoosterPackHeroes-Trainer-RU-v1.0.zip)** · [Таблица .CT и сохранение на GitHub Releases](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/releases)
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78)**
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше (`120 ₽/мес на все релизы или разовый пост 150 ₽`), своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![Booster Pack Heroes - Мод-меню](docs/screenshots/cover_wide.png)
 
@@ -29,4 +29,4 @@
 
 Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/booster-pack-heroes-mod-ru/issues).
 
-[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=booster_pack_heroes) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Telegram](https://t.me/neoru_droid) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
